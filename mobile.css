@@ -1,0 +1,193 @@
+@media screen and (max-width: 500px){
+    .header .container .phone i{
+        display: none;
+    }
+    .header .container .phone p{
+        display: none;
+    }
+    .header .container ul{
+        margin-right: 60px;
+        margin-top: 13px;
+    }
+    .container .list ul{
+        display: grid;
+        grid-template-columns: auto auto auto;
+        margin-left: -80px;
+    }
+    .all-product{
+        display: flex;
+        flex-direction: column;
+    }
+    .all-product .header-big h1{
+        text-align: center;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .all-product .input{
+        margin-left: 45px;
+        position: relative;
+    }
+    .all-product .input input{
+        width: 380px;
+    }
+    .all-product .input span{
+        margin-right: 59px;
+    }
+    .all-product .basic{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    .handbag{
+        display: flex;
+       flex-direction: column;
+        margin-top: 20px;
+        height: 900px;
+    }
+    .handbag img{
+        width: 500px;
+    }
+    .site-benefits .container{
+        display: flex;
+        flex-direction: column;
+        margin-left: 30px;
+    }
+    .site-benefits .container .delivery span{
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    .site-benefits .container .come-back{
+        padding-top: 15px;
+    }
+    .site-benefits .container .come-back span{
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    .site-benefits .container .safe{
+        padding-top: 15px;
+    }
+    .site-benefits .container .safe span{
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    .site-benefits .container .payment{
+        padding-top: 15px;
+    }
+    .site-benefits .container .payment span{
+        padding-left: 10px;
+        font-size: 20px;
+    }
+    .container .bags{
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+    .bags .shoulder-bag-1{
+        width: 200px;
+    }
+    .bags .shoulder-bag-1 img{
+        width: 130px;
+        margin-top: 32px;
+        margin-left: 70px;
+    }
+    .bags .shoulder-bag-2{
+        width: 200px;
+    }
+    .bags .shoulder-bag-2 img{
+        width: 130px;
+        margin-left: 70px;
+        margin-top: -10px;
+    }
+    .bags .shoulder-bag-3{
+        width: 200px;
+    }
+    .bags .shoulder-bag-3 img{
+        width: 130px;
+        margin-left: 70px;
+        margin-top: -10px;
+    }
+    .bags .shoulder-bag-4{
+        width: 200px;
+    }
+    .bags .shoulder-bag-4 img{
+        width: 130px;
+        margin-left: 70px;
+    }
+    .container .featured .header-main{
+        width: 430px;
+        margin-bottom: 20px;
+    }
+    .container .featured .header-main p{
+        margin-top: 20px;
+    }
+    .container .featured .featured-products{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .features .feature .header-main{
+        width: 430px;
+        margin-bottom: 20px;
+    }
+    .features .feature .header-main p{
+        margin-top: 20px;
+    }
+    .features .feature .feature-products{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 30px;
+    }
+    .finally .header-middle form{
+        display: none;
+    }
+    .finally .container .final{
+        display: flex;
+        flex-direction: column;
+    }
+    .finally .final{
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+        margin-bottom: 20px;
+    }
+    .finally .final .wise{
+        margin-left: 80px;
+    }
+    .finally .final .wise .email{
+        margin-left: 20px;
+    }
+    .finally .final .wise .email i{
+        font-size: 17px;
+    }
+    .finally .final .wise .email a{
+        font-size: 17px;
+    }
+    .finally .final .wise .phone{
+        margin-left: 20px;
+    }
+    .finally .final .wise .phone i{
+        font-size: 17px;
+    }
+    .finally .final .wise .phone a{
+        font-size: 17px;
+    }
+    .finally .final .snobella-about{
+        display: flex;
+        flex-direction: row;
+        gap: 67px;
+        margin-left: 10px;
+    }
+    .reserved .container{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 20px;
+    }
+}
